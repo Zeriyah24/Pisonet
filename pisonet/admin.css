@@ -1,0 +1,19 @@
+.container1 {
+    background-color: #b2ad7f;
+    margin: 0 auto; /* Center the container horizontally */
+    padding: 20px; /* Add padding to the container */
+    max-width: 400px; /* Set a maximum width for the container */
+}
+
+.container1 h3 {
+    text-align: center; /* Center the heading */
+}
+
+.container1 p {
+    text-align: center; /* Center the paragraph */
+}
+
+.container1 button {
+    display: block;
+    margin: 0 auto; /* Center the buttons */
+}

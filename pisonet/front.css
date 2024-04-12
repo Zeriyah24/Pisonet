@@ -1,0 +1,44 @@
+body {
+    font: 14px sans-serif;
+    background-color: #f2f2f2; /* Set background color */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Set full height of viewport */
+}
+
+.wrapper {
+    width: 350px;
+    padding: 20px;
+    background-color: #ffffff; /* Set background color */
+    border-radius: 8px; /* Add border radius */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add box shadow */
+}
+
+.wrapper h2 {
+    text-align: center; /* Center the heading */
+}
+
+.form-group {
+    margin-bottom: 20px; /* Add spacing between form groups */
+}
+
+.help-block {
+    color: #dc3545; /* Set error message color */
+}
+
+.btn-primary {
+    width: 100%; /* Make button full width */
+}
+
+.register-link {
+    text-align: center; /* Center the register link */
+}
+
+.register-link a {
+    color: #007bff; /* Set link color */
+}
+
+.register-link a:hover {
+    text-decoration: underline; /* Add underline on hover */
+}
